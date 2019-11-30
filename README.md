@@ -91,7 +91,10 @@ TIP: For a faster build, specify the `--parallel` (or `-p`) option to build all 
 
 Before running an exercise solution, you need to set the startup projects.
 
-One way to do this is to use the [SwitchStartupProject](https://marketplace.visualstudio.com/items?itemName=vs-publisher-141975.SwitchStartupProjectforVS2017) Visual Studio extension. After installing the extension, open the exercise solution and choose the "Exercise" startup configuration.
+One way to do this is to use the *SwitchStartupProject* Visual Studio extension. After installing the extension, open the exercise solution and choose the "Exercise" startup configuration.
+
+- [SwitchStartupProject](https://marketplace.visualstudio.com/items?itemName=vs-publisher-141975.SwitchStartupProjectforVS2017) for Visual Studio 2017
+- [SwitchStartupProject](https://marketplace.visualstudio.com/items?itemName=vs-publisher-141975.SwitchStartupProjectForVS2019) for Visual Studio 2019
 
 The startup projects are also listed in the instructions for each exercise. If you need to, you can configure them manually:
 
