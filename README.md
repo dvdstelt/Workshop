@@ -1,5 +1,10 @@
 # Workshop (with examples in NServiceBus)
 
+## Prerequisites
+
+- Windows 8.1 or Windows 10
+- Visual Studio 2017 or Visual Studio 2019
+
 **Please ensure you have prepared your machine well in advance of the workshop. Your time during the workshop is valuable, and we want to use it for learning, rather than setting up machines.**
 
 If you have any difficulty preparing your machine, or following this document, please raise an issue in this repository ASAP so that we can resolve the problem before the workshop begins.
