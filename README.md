@@ -40,10 +40,13 @@ If you are not running the latest version of Visual Studio 2017, you may need to
  
 #### LocalDB
 
-* Download and run the [SQL Server 2017 Express installer](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
+* Visit the [SQL Server 2017 Express Edition](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express) website.
+* Scroll down to the title "Choose which SQL Server 2017 Express to download"
+* Select "SQL Server 2017 Express LocalDB"
+* Download and run `SQLServer2016-SSEI-Expr.exe` from the download location
 * In the installer, select the "Download Media" option
-* Under "WHICH PACKAGE WOULD YOU LIKE TO DOWNLOAD?", select LocalDB
-* Download and run `SqlLocalDB.msi` from the download location
+* Select "LocalDB", let the installer download it and the press the "Open folder" button
+* Run `SqlLocalDB.msi`
 
 #### SQLCMD
 
